@@ -14,7 +14,10 @@ code & data [adaptive-federated-learning](https://github.com/IBM/adaptive-federa
 6.  **A3FL: adversarially adaptive backdoor attacks to federated learning.**, Hangfan Zhang, Jinyuan Jia, Jinghui Chen, Lu Lin, Dinghao Wu, NeurIPS 2023, [p6](https://openreview.net/forum?id=S6ajVZy6FA), [codes](https://github.com/hfzhang31/A3FL)
 
 
- 
 ## Backdoor Defenses
 1. **DeepSight: Mitigating Backdoor Attacks in Federated Learning Through Deep Model Inspection.** Phillip Rieger, Thien Duc Nguyen, Markus Miettinen, Ahmad-Reza Sadeghi, NDSS 2022 [p1](https://arxiv.org/abs/2201.00763).
 2. **Mitigating Distributed Backdoor Attack in Federated Learning Through Mode Connectivity.**, Walter, Kane and Mohammady, Meisam and Nepal, Surya and Kanhere, Salil S, ASIA CCS '24 [p2](https://dl.acm.org/doi/abs/10.1145/3634737.3637682?casa_token=3t1M1TpHN3YAAAAA:lDAw0-qF_zMsBDt8ST3bXe83QxAvlNoUE3MBB8S_6zePpWWF3drhshkszGCOQT06rB0uu9TVVXic).
+
+
+## Privacy Attacks
+1. **Federated Learning Vulnerabilities: Privacy Attacks with Denoising Diffusion Probabilistic Models.**, Gu, Hongyan and Zhang, Xinyi and Li, Jiang and Wei, Hui and Li, Baiqi and Huang, Xinli, WWW '24 [p1](https://dl.acm.org/doi/10.1145/3589334.3645514)
