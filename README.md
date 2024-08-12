@@ -21,3 +21,6 @@ code & data [adaptive-federated-learning](https://github.com/IBM/adaptive-federa
 
 ## Privacy Attacks
 1. **Federated Learning Vulnerabilities: Privacy Attacks with Denoising Diffusion Probabilistic Models.**, Gu, Hongyan and Zhang, Xinyi and Li, Jiang and Wei, Hui and Li, Baiqi and Huang, Xinli, WWW '24 [p1](https://dl.acm.org/doi/10.1145/3589334.3645514)
+
+## Privacy Defenses
+1. **Concealing Sensitive Samples against Gradient Leakage in Federated Learning.**, Jing Wu, Munawar Hayat, Mingyi Zhou, Mehrtash Harandi, [p1](https://ojs.aaai.org/index.php/AAAI/article/view/30171/32078) [codes](https://github.com/JingWu321/DCS-2)
