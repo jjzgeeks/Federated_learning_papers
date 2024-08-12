@@ -24,3 +24,10 @@ code & data [adaptive-federated-learning](https://github.com/IBM/adaptive-federa
 
 ## Privacy Defenses
 1. **Concealing Sensitive Samples against Gradient Leakage in Federated Learning.**, Jing Wu, Munawar Hayat, Mingyi Zhou, Mehrtash Harandi, [p1](https://ojs.aaai.org/index.php/AAAI/article/view/30171/32078) [codes](https://github.com/JingWu321/DCS-2)
+
+## Poisoning Attacks
+1. **Data Poisoning Attacks Against Federated Learning Systems.** Vale Tolpegin, Stacey Truex, Mehmet Emre Gursoy, Ling Liu, ESORICS 2020 [p1](https://dl.acm.org/doi/10.1007/978-3-030-58951-6_24)
+
+## Defense against Poisoning Attacks
+1. **Byzantine-Robust Decentralized Federated Learning.**, Fang, Minghong, Zifan Zhang, Prashant Khanduri, Songtao Lu, Yuchen Liu, and Neil Gong, CCS ’24 [p1](https://arxiv.org/abs/2406.10416).
+2. **Byzantine-robust Decentralized Federated Learning via Dual-domain Clustering and Trust Bootstrapping.**, Peng Sun, Xinyang Liu, Zhibo Wang, Bo Liu; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024 [p2](https://openaccess.thecvf.com/content/CVPR2024/html/Sun_Byzantine-robust_Decentralized_Federated_Learning_via_Dual-domain_Clustering_and_Trust_Bootstrapping_CVPR_2024_paper.html)
