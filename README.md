@@ -21,9 +21,13 @@ code & data [adaptive-federated-learning](https://github.com/IBM/adaptive-federa
 
 ## Privacy Attacks
 1. **Federated Learning Vulnerabilities: Privacy Attacks with Denoising Diffusion Probabilistic Models.**, Gu, Hongyan and Zhang, Xinyi and Li, Jiang and Wei, Hui and Li, Baiqi and Huang, Xinli, WWW '24 [p1](https://dl.acm.org/doi/10.1145/3589334.3645514)
+2. **Inverting Gradients — How Easy Is It to Break Privacy in Federated Learning?.** Geiping J, Bauermeister H, Dröge H, Moeller M, NeurIPS 2019, [p2](https://dl.acm.org/doi/abs/10.5555/3495724.3497145)
+3. **Deep Leakage from Gradients.**, Ligeng Zhu, Zhijian Liu, Song Han, NeurIPS 2019, [p3](https://papers.nips.cc/paper_files/paper/2019/hash/60a6c4002cc7b29142def8871531281a-Abstract.html)
+
 
 ## Privacy Defenses
-1. **Concealing Sensitive Samples against Gradient Leakage in Federated Learning.**, Jing Wu, Munawar Hayat, Mingyi Zhou, Mehrtash Harandi, [p1](https://ojs.aaai.org/index.php/AAAI/article/view/30171/32078) [codes](https://github.com/JingWu321/DCS-2)
+1. **Concealing Sensitive Samples against Gradient Leakage in Federated Learning.**, Jing Wu, Munawar Hayat, Mingyi Zhou, Mehrtash Harandi, AAAI-24 [p1](https://ojs.aaai.org/index.php/AAAI/article/view/30171/32078) [codes](https://github.com/JingWu321/DCS-2)
+2. **More Than Enough is Too Much: Adaptive Defenses Against Gradient Leakage in Production Federated Learning.**, Fei Wang, Ethan Hugh, Baochun Li, IEEE/ACM Transactions on Networking, [p2](https://ieeexplore.ieee.org/abstract/document/10477938)
 
 ## Poisoning Attacks
 1. **Data Poisoning Attacks Against Federated Learning Systems.** Vale Tolpegin, Stacey Truex, Mehmet Emre Gursoy, Ling Liu, ESORICS 2020 [p1](https://dl.acm.org/doi/10.1007/978-3-030-58951-6_24)
