@@ -5,7 +5,7 @@ code & data [adaptive-federated-learning](https://github.com/IBM/adaptive-federa
  code & data [fair_flearn](https://github.com/litian96/fair_flearn)
 
 # About Communication-Efficient
-1. **Robust and Communication-Efficient Federated Learning From Non-i.i.d. Data**  	*F. Sattler, S. Wiedemann, K. -R. Müller and W. Samek, IEEE Transactions on Neural Networks and Learning Systems, vol. 31, no. 9, pp. 3400-3413, Sept. 2020* [p1](https://ieeexplore.ieee.org/document/8889996)  
+1. **Robust and Communication-Efficient Federated Learning From Non-i.i.d. Data.**  	*F. Sattler, S. Wiedemann, K. -R. Müller and W. Samek, IEEE Transactions on Neural Networks and Learning Systems, vol. 31, no. 9, pp. 3400-3413, Sept. 2020* [p1](https://ieeexplore.ieee.org/document/8889996)  
 
 
 
