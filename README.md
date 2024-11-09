@@ -4,6 +4,12 @@ code & data [adaptive-federated-learning](https://github.com/IBM/adaptive-federa
 2. **Fair Resource Allocation in Federated Learning.**  	*Tian Li, Maziar Sanjabi, Ahmad Beirami, Virginia Smith. ICLR 2020.* [p2](https://arxiv.org/abs/1905.10497)  
  code & data [fair_flearn](https://github.com/litian96/fair_flearn)
 
+# About Communication-Efficient
+1. **Robust and Communication-Efficient Federated Learning From Non-i.i.d. Data**  	*F. Sattler, S. Wiedemann, K. -R. Müller and W. Samek, IEEE Transactions on Neural Networks and Learning Systems, vol. 31, no. 9, pp. 3400-3413, Sept. 2020* [p1](https://ieeexplore.ieee.org/document/8889996)  
+
+
+
+
 # About Security and Privacy
 ## Backdoor Attacks
 1. **How To Backdoor Federated Learning.**  Eugene Bagdasaryan, Andreas Veit, Yiqing Hua, Deborah Estrin, Vitaly Shmatikov Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics  (AISTATS), PMLR 108:2938-2948, 2020. [p1](https://proceedings.mlr.press/v108/bagdasaryan20a.html).
