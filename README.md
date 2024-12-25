@@ -39,6 +39,10 @@ code & data [adaptive-federated-learning](https://github.com/IBM/adaptive-federa
 1. **Data Poisoning Attacks Against Federated Learning Systems.** Vale Tolpegin, Stacey Truex, Mehmet Emre Gursoy, Ling Liu, ESORICS 2020 [p1](https://dl.acm.org/doi/10.1007/978-3-030-58951-6_24)
 2. **Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses for Federated Learning.** Shejwalkar, Virat, and Amir Houmansadr. NDSS 2021 [p2](https://www.ndss-symposium.org/ndss-paper/manipulating-the-byzantine-optimizing-model-poisoning-attacks-and-defenses-for-federated-learning/)
 
+
 ## Defense against Poisoning Attacks
 1. **Byzantine-Robust Decentralized Federated Learning.**, Fang, Minghong, Zifan Zhang, Prashant Khanduri, Songtao Lu, Yuchen Liu, and Neil Gong, CCS ’24 [p1](https://arxiv.org/abs/2406.10416).
 2. **Byzantine-robust Decentralized Federated Learning via Dual-domain Clustering and Trust Bootstrapping.**, Peng Sun, Xinyang Liu, Zhibo Wang, Bo Liu; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024 [p2](https://openaccess.thecvf.com/content/CVPR2024/html/Sun_Byzantine-robust_Decentralized_Federated_Learning_via_Dual-domain_Clustering_and_Trust_Bootstrapping_CVPR_2024_paper.html)
+
+# About Catastrophic Forgetting
+1.  **A Data-Free Approach to Mitigate Catastrophic Forgetting in Federated Class Incremental Learning for Vision Tasks.**, Sara Babakniya, Zalan Fabian, Chaoyang He, Mahdi Soltanolkotabi, Salman Avestimehr, NeurIPS 2023, [p1](https://proceedings.neurips.cc/paper_files/paper/2023/hash/d160ea01902c33e30660851dfbac5980-Abstract-Conference.html)
