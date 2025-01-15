@@ -12,7 +12,7 @@ code & data [adaptive-federated-learning](https://github.com/IBM/adaptive-federa
 
 # About Security and Privacy
 ## Backdoor Attacks
-1. **How To Backdoor Federated Learning.**  Eugene Bagdasaryan, Andreas Veit, Yiqing Hua, Deborah Estrin, Vitaly Shmatikov Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics  (AISTATS), PMLR 108:2938-2948, 2020. [p1](https://proceedings.mlr.press/v108/bagdasaryan20a.html).
+1. **How To Backdoor Federated Learning.**  Eugene Bagdasaryan, Andreas Veit, Yiqing Hua, Deborah Estrin, Vitaly Shmatikov Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics  (AISTATS), PMLR 108:2938-2948, 2020. [p1](https://proceedings.mlr.press/v108/bagdasaryan20a.html), [codes](https://github.com/ebagdasa/backdoor_federated_learning).
 2.  **DBA: Distributed Backdoor Attacks against Federated Learning.** Xie, Chulin and Huang, Keli and Chen, Pin-Yu and Li, Bo, ICLR 2020 [p2](https://openreview.net/pdf?id=rkgyS0VFvr).
 3.  **3DFed: Adaptive and Extensible Framework for Covert Backdoor Attack in Federated Learning.** Li, Haoyang and Ye, Qingqing and Hu, Haibo and Li, Jin and Wang, Leixia and Fang, Chengfang and Shi, Jie, 2023 IEEE Symposium on Security and Privacy (SP) [p3](https://ieeexplore.ieee.org/document/10179401), [codes](https://github.com/haoyangliASTAPLE/3DFed)
 4.  **IBA: Towards Irreversible Backdoor Attacks in Federated Learning.**, Thuy Dung Nguyen, Tuan A. Nguyen, Anh Tran, Khoa D Doan, Kok-Seng Wong,  Advances in Neural Information Processing Systems 36 (NeurIPS 2023) [p4](https://proceedings.neurips.cc/paper_files/paper/2023/hash/d0c6bc641a56bebee9d985b937307367-Abstract-Conference.html), [codes](https://github.com/sail-research/iba)
