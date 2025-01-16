@@ -24,8 +24,8 @@ code & data [adaptive-federated-learning](https://github.com/IBM/adaptive-federa
 
 ## Backdoor Defenses
 1. **DeepSight: Mitigating Backdoor Attacks in Federated Learning Through Deep Model Inspection.** Phillip Rieger, Thien Duc Nguyen, Markus Miettinen, Ahmad-Reza Sadeghi, NDSS 2022 [p1](https://arxiv.org/abs/2201.00763).
-2. **Backdoor Defense with Machine Unlearning.** Liu, Yang, Mingyuan Fan, Cen Chen, Ximeng Liu, Zhuo Ma, Li Wang, and Jianfeng Ma, In IEEE INFOCOM 2022-IEEE conference on computer communications, pp. 280-289. IEEE, 2022.
-3. **Mitigating Distributed Backdoor Attack in Federated Learning Through Mode Connectivity.**, Walter, Kane and Mohammady, Meisam and Nepal, Surya and Kanhere, Salil S, ASIA CCS '24 [p2](https://dl.acm.org/doi/abs/10.1145/3634737.3637682?casa_token=3t1M1TpHN3YAAAAA:lDAw0-qF_zMsBDt8ST3bXe83QxAvlNoUE3MBB8S_6zePpWWF3drhshkszGCOQT06rB0uu9TVVXic).
+2. **Backdoor Defense with Machine Unlearning.** Liu, Yang, Mingyuan Fan, Cen Chen, Ximeng Liu, Zhuo Ma, Li Wang, and Jianfeng Ma, In IEEE INFOCOM 2022-IEEE conference on computer communications, pp. 280-289. IEEE, 2022.  [p2](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9796974).
+3. **Mitigating Distributed Backdoor Attack in Federated Learning Through Mode Connectivity.**, Walter, Kane and Mohammady, Meisam and Nepal, Surya and Kanhere, Salil S, ASIA CCS '24 [p3](https://dl.acm.org/doi/abs/10.1145/3634737.3637682?casa_token=3t1M1TpHN3YAAAAA:lDAw0-qF_zMsBDt8ST3bXe83QxAvlNoUE3MBB8S_6zePpWWF3drhshkszGCOQT06rB0uu9TVVXic).
 
 
 ## Privacy Attacks
