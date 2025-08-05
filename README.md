@@ -32,6 +32,8 @@ code & data [adaptive-federated-learning](https://github.com/IBM/adaptive-federa
 1. **Federated Learning Vulnerabilities: Privacy Attacks with Denoising Diffusion Probabilistic Models.**, Gu, Hongyan and Zhang, Xinyi and Li, Jiang and Wei, Hui and Li, Baiqi and Huang, Xinli, WWW '24 [p1](https://dl.acm.org/doi/10.1145/3589334.3645514)
 2. **Inverting Gradients — How Easy Is It to Break Privacy in Federated Learning?.** Geiping J, Bauermeister H, Dröge H, Moeller M, NeurIPS 2019, [p2](https://dl.acm.org/doi/abs/10.5555/3495724.3497145)
 3. **Deep Leakage from Gradients.**, Ligeng Zhu, Zhijian Liu, Song Han, NeurIPS 2019, [p3](https://papers.nips.cc/paper_files/paper/2019/hash/60a6c4002cc7b29142def8871531281a-Abstract.html)
+4.  **SoK: On Gradient Leakage in Federated Learning.**,Du, Jiacheng, Jiahui Hu, Zhibo Wang, Peng Sun, Neil Zhenqiang Gong, Kui Ren, and Chun Chen, USENIX Security '25 [p4](https://www.usenix.org/conference/usenixsecurity25/presentation/du)
+
 
 
 ## Privacy Defenses
